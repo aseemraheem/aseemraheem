@@ -1,44 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aseem Raheem</h1>
-
-<h3 align="center">
-Computer Science Student • AI Enthusiast • Graphic Designer • Digital Marketing Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aseemraheem&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aseemraheem?style=for-the-badge&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aseemraheem?affiliations=OWNER&style=for-the-badge&label=Stars" alt="Stars" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Python, automation, web development, graphic design, and digital marketing**.
+I'm a **Computer Science student** passionate about **Artificial Intelligence, Python, automation, web development, graphic design, and digital marketing**. I enjoy turning ideas into practical projects and continuously learning through building.
 
-* 🔭 I'm currently working on **[JARVIS 2.0](https://github.com/aseemraheem/Jarvis-2.0)**
-* 🌱 I'm currently learning **Python, Artificial Intelligence, Machine Learning, APIs & Automation**
-* 👯 I'm looking to collaborate on **AI, Python, automation & open-source projects**
-* 🤝 I'm looking for help with **SpendWise**
-* 💬 Ask me about **Python, AI Projects, Graphic Design, Digital Marketing & GitHub**
-* 📫 Reach me at **[aseemraheem10@gmail.com](mailto:aseemraheem10@gmail.com)**
-* 📄 **[View My Resume](./Aseem_Raheem_CV_Improved_9_5_Target.pdf)**
+* 🔭 Currently building [**JARVIS 2.0**](https://github.com/aseemraheem/Jarvis-2.0)
+* 🌱 Currently learning **Python, Artificial Intelligence, Machine Learning, APIs, Automation & Data Visualization**
+* 👯 Looking to collaborate on **AI, Python, automation & open-source projects**
+* 🤝 Looking for help with **SpendWise**
+* 💬 Ask me about **Python, AI Projects, Automation, Graphic Design, Digital Marketing & GitHub**
+* 📫 Reach me at [**aseemraheem10@gmail.com**](mailto:aseemraheem10@gmail.com)
+* 📄 [**View My Resume**](./Aseem_Raheem_CV_Improved_9_5_Target.pdf)
 * ⚡ Fun fact: **I'm building my own JARVIS because I believe the best way to learn AI is to build something you'd actually want to use. 🤖**
 
 ---
 
 ## 🚀 Currently Working On
 
-<h3 align="center">🤖 JARVIS 2.0</h3>
-
 <p align="center">
-An AI-powered personal voice assistant built with Python, automation and intelligent APIs.
+
+<a href="https://github.com/aseemraheem/Jarvis-2.0">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=Jarvis-2.0&hide_border=true" alt="JARVIS 2.0"/>
+</a>
+
 </p>
 
 <p align="center">
-<a href="https://github.com/aseemraheem/Jarvis-2.0">
-<img src="https://img.shields.io/badge/View%20Project-JARVIS%202.0-181717?style=for-the-badge&logo=github" />
-</a>
+<b>🤖 JARVIS 2.0</b><br>
+AI-powered personal voice assistant built with Python, automation and intelligent APIs.
 </p>
 
 ---
@@ -46,11 +35,11 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 ## 🌱 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,ai,tensorflow,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=python,github,git,docker" />
 </p>
 
 <p align="center">
-<b>Python • Artificial Intelligence • Machine Learning • APIs • Automation • Data Visualization</b>
+<b>Python</b> • <b>Artificial Intelligence</b> • <b>Machine Learning</b> • <b>APIs</b> • <b>Automation</b> • <b>Data Visualization</b>
 </p>
 
 ---
@@ -92,9 +81,9 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aseemraheem&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Aseem's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aseemraheem&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Aseem's%20GitHub%20Stats" height="180" alt="GitHub Stats" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemraheem&layout=donut&langs_count=8&hide_border=true" alt="Aseem's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemraheem&layout=donut&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -102,7 +91,7 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aseemraheem&hide_border=true" alt="Aseem's GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=aseemraheem&hide_border=true" height="180" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -110,7 +99,7 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aseemraheem&theme=github-compact&hide_border=true&area=true" alt="Aseem's Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aseemraheem&theme=github-compact&hide_border=true&area=true&custom_title=Aseem's%20Contribution%20Activity" width="95%" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -118,7 +107,7 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aseemraheem&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aseemraheem&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6&row=2" width="90%" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -128,26 +117,20 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 <p align="center">
 
 <a href="https://github.com/aseemraheem/Jarvis-2.0">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=Jarvis-2.0&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=Jarvis-2.0&hide_border=true" width="48%" alt="JARVIS 2.0" />
 </a>
 
 <a href="https://github.com/aseemraheem/Smart-Public-Safety-Alert">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=Smart-Public-Safety-Alert&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=Smart-Public-Safety-Alert&hide_border=true" width="48%" alt="Smart Public Safety Alert System" />
 </a>
 
 </p>
 
----
-
-# 📌 GitHub Highlights
-
 <p align="center">
 
-<img src="https://img.shields.io/github/repo-count/aseemraheem?style=for-the-badge&label=Repositories" alt="Repositories" />
-
-<img src="https://img.shields.io/github/followers/aseemraheem?style=for-the-badge&label=Followers" alt="Followers" />
-
-<img src="https://img.shields.io/github/stars/aseemraheem?affiliations=OWNER&style=for-the-badge&label=Stars" alt="Stars" />
+<a href="https://github.com/aseemraheem/spendwise-expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem&repo=spendwise-expense-tracker&hide_border=true" width="48%" alt="SpendWise" />
+</a>
 
 </p>
 
@@ -155,7 +138,7 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 
 ## 💬 Ask Me About
 
-**Python • AI Projects • Automation • Graphic Design • Digital Marketing • GitHub**
+**Python • Artificial Intelligence • Automation • Graphic Design • Digital Marketing • GitHub**
 
 ---
 
@@ -167,10 +150,10 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:aseemraheem10@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/aseemraheem">
@@ -193,16 +176,12 @@ An AI-powered personal voice assistant built with Python, automation and intelli
 
 <p align="center">
 <a href="./Aseem_Raheem_CV_Improved_9_5_Target.pdf">
-<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-<b>⭐ If you like my work, consider giving my repositories a star!</b>
-</p>
-
-<p align="center">
-<i>Building ideas • Learning every day • Creating with AI 🤖</i>
+<b>⭐ Building. Learning. Creating with AI. 🤖</b>
 </p>
