@@ -8,9 +8,6 @@ Computer Science Student • AI Enthusiast • Python Developer • Graphic Desi
   <a href="https://github.com/aseemraheem">
     <img src="https://img.shields.io/badge/GitHub-Aseem%20Raheem-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:aseemraheem10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://instagram.com/mr.aseem_raheem">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
