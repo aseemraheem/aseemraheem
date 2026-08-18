@@ -139,24 +139,22 @@ An AI-powered personal voice assistant built with **Python, automation, and inte
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/aseemraheem?tab=repositories">
-    <img src="https://img.shields.io/github/repos/aseemraheem?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=0e75b6" alt="Public Repositories"/>
-  </a>
-  <a href="https://github.com/aseemraheem?tab=followers">
-    <img src="https://img.shields.io/github/followers/aseemraheem?style=for-the-badge&label=FOLLOWERS&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/aseemraheem?tab=stars">
-    <img src="https://img.shields.io/github/stars/aseemraheem?style=for-the-badge&label=STARS&color=yellow" alt="Stars"/>
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aseemraheem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <a href="https://github.com/aseemraheem">
-    <img src="https://img.shields.io/github/last-commit/aseemraheem/aseemraheem?style=for-the-badge&label=LAST%20PROFILE%20UPDATE" alt="Last Commit"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aseemraheem&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Aseem Raheem GitHub Activity Graph" />
+</p>
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aseemraheem/aseemraheem/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
