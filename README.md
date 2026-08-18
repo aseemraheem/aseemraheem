@@ -103,10 +103,9 @@ I'm currently building my own AI-powered personal assistant.
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aseemraheem&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemraheem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aseemraheem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemraheem&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
