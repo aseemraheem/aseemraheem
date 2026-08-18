@@ -1,121 +1,193 @@
-# Hi, I'm Aseem Raheem 👋
+# 👋 Hi, I'm Aseem Raheem
 
-### AI & Computer Science Student | Graphic Designer | Digital Marketer
+<h3 align="center">
+Computer Science Student • AI Enthusiast • Graphic Designer • Digital Marketing Enthusiast
+</h3>
 
-I'm a passionate student exploring **Artificial Intelligence, software development, web technologies, and digital marketing**. I enjoy turning ideas into practical projects and continuously improving my technical and creative skills.
-
-* 🎓 Studying **Computer Science / Artificial Intelligence**
-* 🤖 Exploring **AI, programming & software development**
-* 💻 Building practical **web and software projects**
-* 🎨 Experienced in **Graphic Design**
-* 📈 Interested in **Digital Marketing & SEO**
-* 🚀 Working on personal projects and freelance work
-* 📚 Always learning something new
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming & Development
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🌐 Web & Database
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🤖 AI & Computer Science
-
-* Artificial Intelligence
-* Machine Learning — currently learning
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Software Development
-* Computer Networks
-
-### 🎨 Design & Marketing
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-
-* Graphic Design
-* Social Media Marketing
-* SEO
-* PPC
-* Facebook Marketing
-* LinkedIn Optimization
-* Brand & Social Media Design
+<p align="center">
+  <a href="https://github.com/aseemraheem">
+    <img src="https://komarev.com/ghpvc/?username=aseemraheem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/aseemraheem?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/aseemraheem?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
+
+I'm a Computer Science student passionate about **Artificial Intelligence, Python, automation, web technologies, and creative design**.
+
+I'm currently focused on building practical projects that combine technology and creativity.
+
+* 🔭 Currently building **[JARVIS 2.0](https://github.com/aseemraheem/Jarvis-2.0)**
+* 🌱 Currently learning **Python, AI, Machine Learning, APIs & Automation**
+* 🎨 Interested in **Graphic Design & Digital Marketing**
+* 💻 Exploring **AI-powered applications and automation**
+* 🤝 Open to collaborating on **AI, Python & open-source projects**
+* 📄 [View My Resume](./Aseem_Raheem_CV_Improved_9_5_Target.pdf)
+* ⚡ Fun fact: I'm building my own JARVIS because I believe the best way to learn AI is to build something you'd actually want to use. 🤖
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Python              ███████████████████░░
+Artificial Intelligence ████████████████░░░░
+Machine Learning    █████████████░░░░░░░
+APIs & Automation   ███████████████░░░░░
+Data Visualization  ███████████░░░░░░░░░
+Git & GitHub        █████████████████░░░
+```
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,docker,vscode" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aseemraheem&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemraheem&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aseemraheem&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aseemraheem&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aseemraheem&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 JARVIS 2.0
+
+**AI-powered personal voice assistant built with Python, automation, and intelligent APIs.**
+
+[![JARVIS 2.0](https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem\&repo=Jarvis-2.0\&hide_border=true)](https://github.com/aseemraheem/Jarvis-2.0)
+
+---
+
+### 🛡️ Smart Public Safety Alert System
+
+**A smart system concept focused on public safety alerts and intelligent prediction.**
+
+[![Smart Public Safety Alert](https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem\&repo=Smart-Public-Safety-Alert\&hide_border=true)](https://github.com/aseemraheem/Smart-Public-Safety-Alert)
+
+---
 
 ### 💰 SpendWise
 
-A modern expense-tracking application designed to help users manage income, expenses, savings, and financial records.
+**A personal finance and expense tracking application designed to help users manage their spending.**
 
-**Tech:** HTML • CSS • JavaScript
-
-### 🛍️ E-Commerce Project
-
-A full-stack e-commerce concept featuring product browsing, authentication, product details, checkout, and a modern shopping experience.
-
-**Tech:** Node.js • MongoDB • JavaScript
-
-### 🚦 Smart Traffic Light Control System
-
-A smart traffic-management concept designed to improve traffic flow through intelligent traffic-light control.
-
-**Focus:** Programming • Logic • Automation
-
-### 🛡️ Smart Public Safety Alert & Prediction System
-
-A conceptual AI-based system designed to analyze information and assist with public-safety alerts and prediction.
-
-**Focus:** AI • Data • Prediction • Automation
+[![SpendWise](https://github-readme-stats.vercel.app/api/pin/?username=aseemraheem\&repo=spendwise-expense-tracker\&hide_border=true)](https://github.com/aseemraheem/spendwise-expense-tracker)
 
 ---
 
-## 📊 What I'm Currently Working On
+# 📌 GitHub Highlights
 
-* 🤖 Learning more about **Artificial Intelligence & Machine Learning**
-* 💻 Improving my **software development skills**
-* 🌐 Building modern **web applications**
-* 📚 Strengthening **Data Structures & Algorithms**
-* 🎨 Growing my **design portfolio**
-* 📈 Developing my **digital marketing skills**
-
----
-
-## 🎯 2026 Goals
-
-* Build more real-world software projects
-* Improve my AI & Machine Learning knowledge
-* Contribute to open-source projects
-* Build a strong developer portfolio
-* Collaborate with other developers
-* Get industry experience through internships and projects
+<p align="center">
+  <img src="https://img.shields.io/github/repos/aseemraheem?style=for-the-badge&label=Public%20Repositories" />
+  <img src="https://img.shields.io/github/followers/aseemraheem?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/stars/aseemraheem?affiliations=OWNER&style=for-the-badge&label=Stars" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Ask Me About
 
-I'm always interested in connecting with developers, designers, students, and people working on interesting technology projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
+**Python • AI Projects • Automation • Graphic Design • Digital Marketing • GitHub**
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+## 🤝 I'm Looking to Collaborate On
 
-⭐ Feel free to explore my repositories and follow my journey in **AI, software development, design, and digital marketing**.
+**AI projects • Python automation • Open-source projects • Creative technology**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:aseemraheem10@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mr.aseem_raheem">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/aseemraheem">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aseemraheem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="left">
+<a href="./Aseem_Raheem_CV_Improved_9_5_Target.pdf">
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving my repositories a star!</b>
+</p>
+
+<p align="center">
+  <i>Building ideas. Learning every day. Creating the future with AI. 🤖</i>
+</p>
