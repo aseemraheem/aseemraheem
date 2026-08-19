@@ -275,7 +275,7 @@ Designed to manage income, expenses, savings, and financial activity.
 # 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/aseemraheem/aseemraheem/blob/main/Aseem_Raheem_CV_Improved_9_5_Target.pdf">
+  <a href="https://github.com/aseemraheem/aseemraheem/blob/main/Aseem_Raheem.pdf">
     <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20CV-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV"/>
   </a>
 </p>
