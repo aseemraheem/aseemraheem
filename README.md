@@ -6,12 +6,6 @@ Computer Science Student • AI Enthusiast • Python Developer • Graphic Desi
 
 <p align="center">
   <a href="https://github.com/aseemraheem">
-    <img src="https://img.shields.io/badge/GitHub-Aseem%20Raheem-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/mr.aseem_raheem">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/aseemraheem">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
   </a>
 </p>
