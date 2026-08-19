@@ -180,6 +180,9 @@ Designed to manage income, expenses, savings, and financial activity.
 <a href="https://github.com/aseemraheem/spendwise-expense-tracker">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SpendWise Repository"/>
 </a>
+<a href="https://spendwisebudget.netlify.app">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2F6F4E?style=for-the-badge" alt="Live Demo"/>
+</a>
 
 **Technologies:**
 
