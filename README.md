@@ -155,6 +155,22 @@ An AI-powered personal voice assistant built with **Python, automation, and inte
 
 # 🚀 Featured Projects
 
+## 🔍 SEO & Content Audit Tool
+
+**Web-based SEO analyzer**
+
+Enter any URL and get a full on-page SEO audit — title/meta tag checks, heading structure, image alt text, mobile-friendliness, HTTPS, response time, and keyword density, scored out of 100.
+
+<a href="https://github.com/aseemraheem/seo-audit-tool">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SEO Audit Tool Repository"/>
+</a>
+
+**Technologies:**
+
+`Python` `Flask` `BeautifulSoup` `SEO`
+
+---
+
 ## 🤖 JARVIS 2.0
 
 **AI-powered personal voice assistant**
